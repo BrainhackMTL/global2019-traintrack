@@ -1,4 +1,4 @@
-nilearn>=0.6.0b
+nilearn>=0.6.0b0
 matplotlib
 sklearn
 pandas
