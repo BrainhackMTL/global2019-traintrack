@@ -1,0 +1,7 @@
+nilearn>=0.6.0a
+matplotlib
+sklearn
+pandas
+scipy
+jupyter
+seaborn
